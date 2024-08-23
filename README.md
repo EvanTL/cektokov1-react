@@ -1,4 +1,5 @@
 ----INFO----
+
 The store frontend is currently being migrated and the current codebase is no longer maintained
 
 Hello 👋🏻
