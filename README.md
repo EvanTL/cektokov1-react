@@ -1,3 +1,6 @@
+----INFO----
+The store frontend is currently being migrated and the current codebase is no longer maintained
+
 Hello 👋🏻
 
 The following is an e-commerce website made when enrolled in a coding bootcamp course, on FullStack web developer. Powered by React.js development library with notable additional packages:
